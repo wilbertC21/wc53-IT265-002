@@ -25,8 +25,7 @@ playcatalyst.com
 ## Vision Statement
 *What is the mission of your solo game studio? How does it align with creating and analyzing innovative game architectures?*
 
-> [Write a concise and inspiring vision statement here.]
-We strive to create games that bring friends and family together around the table, away from their screens. We aspire to be bigger than the board. To us, each game is an experience and extension of our brand. Our games seek to capture the imaginations of all types of people, weather it be experienced gamers, new gamers, solo gamers, partners, larger groups, and ages.                                                                      
+> We strive to create games that bring friends and family together around the table, away from their screens. We aspire to be bigger than the board. To us, each game is an experience and extension of our brand. Our games seek to capture the imaginations of all types of people, weather it be experienced gamers, new gamers, solo gamers, partners, larger groups, and ages.                                                                      
 We want you to feel our team’s vision in every product we produce. We excel in how we collaborate, by showing up as ourselves, bringing different perspectives to the table, and turning that mix into products we are so proud to make together.
 
 ---
@@ -97,6 +96,11 @@ Neutral: Charcoal (#2D2D2D) and White (#FFFFFF)
 -"Beyond the Board"
 
 -- **Sketches/Logo**:
+
+
+
+
+
 <img width="296" height="88" alt="image" src="https://github.com/user-attachments/assets/fe8cfa8d-1b77-4257-bfb3-6a80473d8fdb" />
 
 
