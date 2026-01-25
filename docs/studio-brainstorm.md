@@ -13,7 +13,7 @@
 - **Chosen Name**:
 Catalyst Studios 
 - **About the name**:
-Catalyst Studios captures the essence of reaction-driven gameplay. A catalyst initiates immediate change/reaction—just like the split-second decisions in fast-paced games such as Spit and Spoons. The name reflects our focus on reflex heavy mechanics that create fun moments and most importantly competition. "Studios" feels indie friendly, suggesting a place where ideas come to life and players connect through shared experiences.
+Catalyst Studios captures the essence of reaction driven gameplay. A catalyst initiates immediate change/reaction just like the split second decisions in fast paced games such as Spit and Spoons. The name reflects our focus on reflex heavy mechanics that create fun moments and most importantly competition. "Studios" feels indie friendly, suggesting a place where ideas come to life and players connect through shared experiences.
 - **Social Medias with name available**:
 @playcatalyst
 - **Possible domain names available**:
@@ -34,10 +34,10 @@ We want you to feel our team’s vision in every product we produce. We excel in
 ## Core Values
 *What principles guide your studio's approach to game design, architecture, and development?*
 
-- Inclusive Play - We design games that welcome everyone, from seasoned strategists to first-time players, creating experiences that scale to any group size or skill level.
+- Inclusive Play - We design games that welcome everyone, from seasoned strategists to first time players, creating experiences that scale to any group size or skill level.
 - Authentic Collaboration - We show up as ourselves, embrace diverse perspectives, and channel our unique viewpoints into products we're proud to create together.
 - Meaningful Connection - We create spaces for face-to-face interaction, pulling people away from screens and back to the table where real moments happen.
-- Experience Beyond Mechanics - Every game is more than rules and components—it's an extension of our brand and a gateway to capture imaginations across all types of players.
+- Experience Beyond Mechanics - Every game is more than rules and components it's an extension of our brand and a gateway to capture imaginations across all types of players.
 
 ---
 
@@ -45,7 +45,7 @@ We want you to feel our team’s vision in every product we produce. We excel in
 *Who are your games designed for? Identify your primary audience based on your focus on card and board games.*
 
 - Demographic: Friends, families, and groups seeking face-to-face connection; players of all experience levels from newcomers to gaming enthusiasts
-- Interests: Fast-paced competitive play, social interaction, reflex-based challenges, accessible strategy, screen-free entertainment
+- Interests: Fast paced competitive play, social interaction, reflex based challenges, accessible strategy, screen-free entertainment
 - Platforms: Physical tabletop games (card games and board games); potential for digital prototypes for playtesting
 ---
 
@@ -53,17 +53,17 @@ We want you to feel our team’s vision in every product we produce. We excel in
 *What types of games will your studio focus on?*  
 *Consider your course's emphasis on depth, mechanics, and balance in card and board games.*
 
-- Fast-paced card games with reflex-driven mechanics
+- Fast paced card games with reflex driven mechanics
 -Party games emphasizing social interaction and competition
 -Accessible strategy games with simple rules and deep gameplay
--Themes: Abstract/minimalist, lighthearted fun, competitive chaos, universal appeal
+-Themes: minimalist, lighthearted fun, competitive chaos, universal appeal
 
 ---
 
 ## Unique Selling Point (USP)
 *What will make your games stand out from others, particularly in the indie/board game space?*
 
-> Catalyst Studios specializes in high-energy, reflex-driven games that create explosive moments of fun. Unlike traditional strategy games that reward slow planning, our games demand split-second decisions and quick reactions—making every round unpredictable and engaging. We blend the accessibility of classic card games like UNO with the competitive intensity of speed-based games like Spit, creating experiences that anyone can learn in minutes but will want to play for hours. Our games pull people away from screens and back to the table, where real connections happen.
+> Catalyst Studios specializes in high energy, reflex driven games that create explosive moments of fun. Unlike traditional strategy games that reward slow planning, our games demand split second decisions and quick reactions making every round unpredictable and engaging. We blend the accessibility of classic card games like UNO with the competitive intensity of speed based games like Spit, creating experiences that anyone can learn in minutes but will want to play for hours. Our games pull people away from screens and back to the table, where real connections happen.
 
 ---
 
@@ -82,7 +82,7 @@ We want you to feel our team’s vision in every product we produce. We excel in
 *What will your studio's visual identity look like?*
 
 - **Logo Style:** 
-Logo Style: Minimalist + Bold - A simple geometric star/burst shape (like a catalyst spark) with sharp angular points, paired with "CATALYST" in a bold, modern sans-serif font with "STUDIOS" smaller underneath. Clean, professional, and instantly recognizable.
+Logo Style: Minimalist + Bold - A simple geometric star/burst shape (like a catalyst spark) with sharp points, paired with "CATALYST" in a bold, with "STUDIOS" smaller underneath. Clean, professional, and instantly recognizable.
 Color Palette:
 Primary: Electric Blue (#0080FF)
 Accent: Bright Orange (#FF6B00)
