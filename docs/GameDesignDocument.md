@@ -1,5 +1,38 @@
 ## Change Log
 
+#### Major Changes from Physical Prototype:
+
+**1. Card Passing Mechanic → Digital Click-Based System**
+- **Before:** Players physically passed cards around the table
+- **After:** Players click to pass cards digitally, with visual feedback.
+
+**2. Dice Grabbing → First Click Wins**
+- **Before:** Players physically reached for dice in the center of table
+- **After:** First player to click the dice icon wins
+
+**3. Boss HP: 20 → 35**
+- **Before:** Boss started with 20 HP
+- **After:** Boss starts with 35 HP
+- **Why:** Playtesting showed Boss died too quickly (round 8-10). With 3-4 racers attacking, Boss needs higher HP to survive until round 15-20 and create meaningful tension.
+
+**4. Movement After Boss Death**
+- **Before:** Game ended immediately when Boss died
+- **After:** Game continues until a racer crosses finish line AND Boss is dead
+
+**6. Camera System Added**
+- **Before:** Fixed top-down view of entire board
+- **After:** Camera now follows dice being rolled so you can cleary see what number you rolled.
+- **Why:** Players couldn't see die results clearly. Following camera creates focus and excitement during crucial moments.
+
+**7. Boss Gains +1 HP When Racer Moves**
+- **Before:** No consequence for choosing Move action
+- **After:** Boss heals +1 HP whenever any racer moves
+- **Why:** maker sure Racers dont always chosoe Move. This creates actual strategic tension: move ahead but strengthen Boss, or attack Boss but fall behind.
+
+**8. Player Count Selection Screen**
+- **Before:** Fixed 4-player setup
+- **After:** UI prompt for 3-5 players at game start
+
 
 The following is Catalyst Studio’s proposal for a strategic speed-based game. The Title Race Attack communicates both the fast-paced, energetic gameplay and the racing element as players race forward toward victory. It's short and captures the chaotic energy of the game.
 
