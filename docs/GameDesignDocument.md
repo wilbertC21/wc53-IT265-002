@@ -33,6 +33,26 @@
 - **Before:** Fixed 4-player setup
 - **After:** UI prompt for 3-5 players at game start
 
+  
+#### Changes from Initial Concept:
+
+**1. Goal Cards: Random → Curated Set of 5**
+- **Before:** every round had same match goal
+- **After:** randomized match goals, and mini games at times can be played
+- **Why:** more creativity 
+
+**2. Block Action Added**
+- **Before:** Only Move and Attack actions existed
+- **After:** Added Block
+- **Why:** wanted to add more actions. Block creates drama and comeback opportunities.
+
+**3. Round Limit: Infinite → 20 rounds**
+- **Before:** Game had no rounds 
+- **After:** incorporated rounds
+- **Why:** make game longer
+
+---
+
 
 The following is Catalyst Studio’s proposal for a strategic speed-based game. The Title Race Attack communicates both the fast-paced, energetic gameplay and the racing element as players race forward toward victory. It's short and captures the chaotic energy of the game.
 
