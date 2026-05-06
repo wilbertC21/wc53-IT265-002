@@ -1,5 +1,7 @@
 ## Change Log
 
+Video to prototype playthrough- https://youtu.be/1h3e4PQV9V0
+
 #### Major Changes from Physical Prototype:
 
 **1. Card Passing Mechanic → Digital Click-Based System**
