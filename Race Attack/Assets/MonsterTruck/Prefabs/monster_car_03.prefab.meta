@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e87464d2c0f711d4fb7b09c06b1b7a64
+timeCreated: 1440610356
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 44776
+  packageName: Cartoon Monster Truck
+  packageVersion: 1.0
+  assetPath: Assets/MonsterTruck/Prefabs/monster_car_03.prefab
+  uploadId: 78739
